@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+.temp {
+    float: left;
+}
+
+.row div:not(.w-10, .col, .img) {
+    border-radius: 35px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    border: 2px solid lightsalmon;
+}
+
+.img {
+    float: right;
+}
+
+.row .col {
+    padding: 20px;
+    border-bottom: 2px solid lightsalmon;
+    margin-bottom: 15px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+p {
+    padding: 20px;
+}
