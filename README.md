@@ -1,2 +1,1 @@
-# shl
-school stuff. idk
+
